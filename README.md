@@ -56,6 +56,19 @@ $DPN_ROOT
 |   |   |-- det_json
 |   |   |-- gt_json
 |   |   |-- images
-
-
+|   |
+|   |-- ExLPose
+|   |   |-- det_json
+|   |   |-- gt_json
+|   |   |-- images
+|   |
+|-- model_logs
+|   
+|-- lib
+|   |-- models
+|   |-- utils
+|
+|-- cvpack
+|
+|-- README
 ```
