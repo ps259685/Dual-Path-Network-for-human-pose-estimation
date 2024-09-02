@@ -29,9 +29,33 @@ rameters and computational complexity low. Additionally, we
 
 ##Repo Structure
 
-```$DPN_ROOT
+```
+$DPN_ROOT
 |-- exps
-|    |-- exp1
-|    |-- exp2
-|    |-- ...
+|   |-- exp1
+|   |-- exp2
+|   |-- ...
+|
+|-- datasets
+|   |-- COCO
+|   |   |-- det_json
+|   |   |-- gt_json
+|   |   |-- images
+|   |       |-- train2014
+|   |       |-- val2014
+|   |
+|   |-- MPII
+|   |   |-- det_json
+|   |   |-- gt_json
+|   |   |-- images
+|   |
+|   |-- OCHuman
+|   |   |-- images
+|   |
+|   |-- HumanArt
+|   |   |-- det_json
+|   |   |-- gt_json
+|   |   |-- images
+
+
 ```
