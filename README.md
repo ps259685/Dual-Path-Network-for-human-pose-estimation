@@ -78,3 +78,7 @@ $DPN_ROOT
 2. Download this repo
 3. Install requirements
 4. Install COCOAPI from [cocoapi official github](https://github.com/cocodataset/cocoapi).
+
+### Train
+`1. First, go to the exp dir
+`
