@@ -26,3 +26,10 @@ rameters and computational complexity low. Additionally, we
 ![image](https://github.com/ps259685/Dual-Path-Network-for-human-pose-estimation/blob/main/DPN/figures/Multi-Branch%20Inverted%20Residual%20Asymmetric%20Conv(MBIRAC)%20Block.jpg)
 ##The attention module, Pose Feature Extractor
 ![image](https://github.com/ps259685/Dual-Path-Network-for-human-pose-estimation/blob/main/DPN/figures/The%20attention%20module%2C%20Pose%20Feature%20Extractor.jpg)
+
+##Repo Structure
+&DPN_ROOT
+|-- exps
+|    |-- exp1
+|    |-- exp2
+|    |-- ...
