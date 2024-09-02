@@ -71,3 +71,11 @@ $DPN_ROOT
 |
 |-- README
 ```
+## Requirements
+>ninja
+yacs
+cython
+matplotlib
+tqdm
+coloredlogs
+tensorboardX
