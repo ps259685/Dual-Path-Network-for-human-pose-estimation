@@ -80,11 +80,11 @@ $DPN_ROOT
 4. Install COCOAPI from [cocoapi official github](https://github.com/cocodataset/cocoapi).
 
 ### Train
-Go to the exp folder, e.g.
-`cd DPN_ROOT/exps/DPN.coco`
-To run:
-`python config.py -log`
-`python -m train.py`
-To test:
-`python -m test.py -i iter_num`
+Go to the exp folder, e.g.  
+`cd DPN_ROOT/exps/DPN.coco`  
+To run:  
+`python config.py -log`  
+`python -m train.py`  
+To test:  
+`python -m test.py -i iter_num`  
 _iter_num is the iteration number which you want to test._
