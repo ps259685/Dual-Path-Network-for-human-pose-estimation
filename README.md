@@ -29,8 +29,9 @@ rameters and computational complexity low. Additionally, we
 
 ##Repo Structure
 
-$DPN_ROOT
+```$DPN_ROOT
 |-- exps
 |    |-- exp1
 |    |-- exp2
 |    |-- ...
+```
