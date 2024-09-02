@@ -71,11 +71,10 @@ $DPN_ROOT
 |
 |-- README
 ```
-## Requirements
->ninja
-yacs
-cython
-matplotlib
-tqdm
-coloredlogs
-tensorboardX
+
+## Quick Start
+### Installation
+1. Install Pytorch from the [Pytorch website](https://pytorch.org/).
+2. Download this repo
+3. Install requirements
+4. Install COCOAPI from [cocoapi official github](https://github.com/cocodataset/cocoapi).
